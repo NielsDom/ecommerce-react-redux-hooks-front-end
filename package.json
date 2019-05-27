@@ -1,0 +1,14 @@
+{
+  "name": "theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NielsDom/ecommerce-react-redux-hooks-front-end.git",
+  "author": "Niels Dominguez <niels.dominguez@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
